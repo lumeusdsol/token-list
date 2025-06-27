@@ -1,4 +1,39 @@
-,
+{8 items
+key:
+4
+updateAuthority:
+"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM"
+mint:
+"6Y8mM3ksXPR9RKW2Nkh4vb8QagDk5seuVPkRAmFepump"
+data:{5 items
+name:
+"ShipLink"
+symbol:
+"Logi"
+uri:
+"https://ipfs.io/ipfs/QmSiEdBRMgBXrq7BLvKCkDcEdmweJsknPT4dbQLyJiLKPB"
+sellerFeeBasisPoints:
+0
+creators:[1 item
+0:{3 items
+address:
+"ATSc6kMtFf3JsUjiGiXWRiGvRYija3k6mDniiaxagE9x"
+verified:
+0
+share:
+100
+}
+]
+}
+primarySaleHappened:
+0
+isMutable:
+0
+editionNonce:
+255
+tokenStandard:
+2
+}
 {
   "chainId": 101,
   "address": "HjHgtmRntsg3wU4aED7PfQ6oFq4XbmMrLjmRAkG5LumE",
@@ -29686,13 +29721,4 @@
       "chainId": 101,
       "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
       "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        ,
-{
+      "name": "Space H
